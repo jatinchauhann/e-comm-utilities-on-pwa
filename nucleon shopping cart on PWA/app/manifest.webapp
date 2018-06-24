@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "name": "E-Commerce Demo",
+  "launch_path": "/index.html",
+  "description": "Project by Jatin Chauhan",
+  "icons": {
+    "128": "/images/touch/icon-128x128.png"
+  },
+  "developer": {
+    "name": "",
+    "url": ""
+  },
+  "installs_allowed_from": [
+    "*"
+  ],
+  "default_locale": "en",
+  "permissions": {
+  },
+  "locales": {
+    "en": {
+      "name": "E-Com on PWA",
+      "description": "E-Com by Jatin Chauhan"
+    }
+  }
+}
